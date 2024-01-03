@@ -1,3 +1,5 @@
+![logo](https://github.com/IMUSARAZA/IMUSARAZA/blob/main/Github%20Banner.gif)
+
 <h1 align="center">Hi 👋, I'm Musa Raza</h1>
 <h3 align="center">A passionate flutter developer from Pakistan</h3>
 
