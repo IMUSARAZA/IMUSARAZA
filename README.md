@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on a Workout App **Gym Visa**
+- 🔭 I’m currently working on a Workout App **Wafflez N Creamz**
 
 - 🌱 I’m currently learning **Web Technologies**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/imusaraza/](https://www.linkedin.com/in/imusaraza/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/imusaraza/](https://codewithmusa.live/)
 
 - 💬 Ask me about **Dart & Flutter**
 
