@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on a Workout App **Wafflez N Creamz**
+- 🔭 I’m currently working on a live ordering app **Wafflez N Creamz**
 
 - 🌱 I’m currently learning **Web Technologies**
 
