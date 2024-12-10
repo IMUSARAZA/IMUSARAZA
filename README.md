@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Web Technologies**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/imusaraza/](https://codewithmusa.live/)
+- 👨‍💻 All of my projects are available at [https://codewithmusa.live/]
 
 - 💬 Ask me about **Dart & Flutter**
 
